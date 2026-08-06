@@ -1,0 +1,70 @@
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset Store Tools
+/[Aa]ssets/AssetStoreTools*
+
+# IDE and editor files
+.vscode/
+.idea/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity-generated metadata for debug symbols
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports
+sysinfo.txt
+
+# Builds and packages
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Test results
+/[Tt]est[Rr]esults/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+*.sln.iml
+
+# Visual Studio Code history
+.history/
+
+# Gradle cache
+.gradle/
+
+# Addressables generated data
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Temporary auto-generated Android assets
+/[Aa]ssets/[Pp]lugins/[Aa]ndroid/androidlib*/
+/[Aa]ssets/[Pp]lugins/[Aa]ndroid/*~
+
