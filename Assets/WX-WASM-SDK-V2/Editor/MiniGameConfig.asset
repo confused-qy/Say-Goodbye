@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: MiniGameConfig
   m_EditorClassIdentifier: 
   ProjectConf:
-    projectName: 
-    Appid: 
+    projectName: SayGoodbye
+    Appid: wx5a535d8dfed1a1bb
     CDN: 
-    assetLoadType: 0
-    compressDataPackage: 0
+    assetLoadType: 1
+    compressDataPackage: 1
     VideoUrl: 
     relativeDST: 
     DST: 
@@ -29,7 +29,7 @@ MonoBehaviour:
     MemorySize: 256
     HideAfterCallMain: 1
     preloadFiles: 
-    Orientation: 0
+    Orientation: 1
     bgImageSrc: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/images/background.jpg
     dataFileSubPrefix: 
     maxStorage: 200
@@ -52,8 +52,8 @@ MonoBehaviour:
     AutoProfile: 0
     ScriptOnly: 0
     Il2CppOptimizeSize: 1
-    profilingFuncs: 1
-    Webgl2: 0
+    profilingFuncs: 0
+    Webgl2: 1
     fbslim: 0
     DeleteStreamingAssets: 1
     ProfilingMemory: 0
