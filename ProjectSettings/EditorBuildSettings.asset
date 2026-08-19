@@ -6,8 +6,50 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Scenes/\u573A\u666F-\u5B89\u5B81\u533B\u9662.scene"
-    guid: c6696af466244447797991c989d933ff
+    path: Assets/Scenes/Main/00_Boot.scene
+    guid: 8e8aed5c98dee264b9c4d33768c7ce84
+  - enabled: 1
+    path: Assets/Scenes/Main/01_Prologue.scene
+    guid: eb5e28d55729e2948b98b61d6c480389
+  - enabled: 1
+    path: Assets/Scenes/Areas/02_Hospital.scene
+    guid: 49a81c925b645004f9c5f28f23f35e0d
+  - enabled: 1
+    path: Assets/Scenes/Areas/03_LivingRoom.scene
+    guid: 3bc89a1347b24a94e8eb2e16decab319
+  - enabled: 1
+    path: Assets/Scenes/Areas/04_Bedroom.scene
+    guid: 34fb358daeb69e8469a8652d23c028fc
+  - enabled: 1
+    path: Assets/Scenes/Areas/05_Corridor.scene
+    guid: 10fc57c97b798754a854176d03f318a0
+  - enabled: 1
+    path: Assets/Scenes/Areas/06_Kitchen.scene
+    guid: 8e11d1df1df134c479e1167a368f001d
+  - enabled: 1
+    path: Assets/Scenes/Minigames/10_Guitar.scene
+    guid: 4651a210fd861b34fbf94ff8fffabc0c
+  - enabled: 1
+    path: Assets/Scenes/Minigames/11_Makeup.scene
+    guid: 8c8b816555aa69e48804a668045ef207
+  - enabled: 1
+    path: Assets/Scenes/Minigames/12_Sunflower.scene
+    guid: e8972d47b4860a944bd20410ab8930dc
+  - enabled: 1
+    path: Assets/Scenes/Minigames/13_Cooking.scene
+    guid: 5cb0c8baece7bb74eb36ccc3684b41fd
+  - enabled: 1
+    path: Assets/Scenes/Minigames/14_FamilyPuzzle.scene
+    guid: 8ec3bf89cbe3d774bae1794f945f1229
+  - enabled: 1
+    path: Assets/Scenes/Main/20_EndingComic.scene
+    guid: ea857f5aa8cef534cb382a9ac79244f6
+  - enabled: 1
+    path: Assets/Scenes/Main/21_Epilogue.scene
+    guid: cec6f2163e3c8de44a6f893459794bc3
+  - enabled: 1
+    path: Assets/Scenes/Main/22_GameComplete.scene
+    guid: ff16db4178628fa408f7959f9b342af1
   m_BuildProfiles:
   - enabled: 0
     path: Assets/Settings/Build Profiles/New WeChat Profile.asset
